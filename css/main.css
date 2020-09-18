@@ -13,7 +13,8 @@ body {
 	justify-content: center;
 	align-items: center;
 	margin: 0 15px;
-  
+	background-color: #e0d7af;
+	color: rgb(58, 59, 52)
 }
 
 .container{
@@ -61,23 +62,21 @@ header {
 	justify-content: center;
 	align-items: center;
 	flex-flow: wrap;
-	
-
-  
 }
 
 header h1 {
+	color: #69818b;
 	margin: 0;
 	padding: 25px 0;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	border-bottom: solid 3px #77a466;
+	border-bottom: solid 3px #63561e;
 	width: 100%;
 }
 
 header h1 span {
-	color: #77a466;
+	color: #a78d1d;
 margin: 0 10px;
 }
 
@@ -98,7 +97,7 @@ header nav ul li {
 }
 header nav ul li a{
 	text-decoration: none;
-	color:#77a466;
+	color:#254d5a;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -119,8 +118,8 @@ header nav ul li a{
 
 .main-image img {
 width: 100%;
-	border-top: 3px solid #77a466;
-	border-bottom: 3px solid #77a466;
+	border-top: 3px solid #c2a31a;
+	border-bottom: 3px solid #c2a31a;
 }
 
 .main-title {
@@ -130,7 +129,7 @@ width: 100%;
 .main-title h3 {
 	text-align: left;
 	padding: 5px 0;
-	color: #77a466;
+	color: #254d5a;
 }
 .main-title p {
 	padding: 0;
@@ -158,7 +157,12 @@ width: 100%;
 }
 .menu li {
 	padding: 5px 0;
-	color:#77a466;
+	color: #63561e;
+}
+.menu li p{
+	color:#3e4d53;
+	padding: 0;
+	margin: 8px 0;
 }
 
 .reviews {
