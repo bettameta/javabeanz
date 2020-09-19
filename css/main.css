@@ -31,7 +31,7 @@ h1,
 h2,
 h3,
 h4 {
-	color: black;
+	color: #2b2a58;
 	text-transform: uppercase;
 	font-weight: 700;
 }
@@ -65,7 +65,7 @@ header {
 }
 
 header h1 {
-	color: #69818b;
+	color: #5b7888;
 	margin: 0;
 	padding: 25px 0;
 	display: flex;
@@ -147,7 +147,7 @@ width: 100%;
 .section-three {
 	width: 100%;
 	height: auto;
-	border-top: 1px solid #eee;	
+	border-top: 1px solid #c2a31a;	
 }
 
 
@@ -157,16 +157,16 @@ width: 100%;
 }
 .menu li {
 	padding: 5px 0;
-	color: #63561e;
+	color: #473e16;
 }
 .menu li p{
-	color:#3e4d53;
+	color:#172225;
 	padding: 0;
 	margin: 8px 0;
 }
 
 .reviews {
-	color: #333;
+	color: #172225;
 	font-size: 1em;
 	line-height: 1.5em;
 }
@@ -174,11 +174,12 @@ width: 100%;
 .address {
 	font-size: 1em;
 	line-height: 1.5em;
+	color: #172225;
 }
 
 /*The widths are in a percentage!*/
 footer {
-	border-top: 3px solid #eee;
+	border-top: 2px solid #455d69;
 	margin: 0 auto;
 	text-align: center;
 	display: flex;
@@ -190,7 +191,7 @@ footer {
 footer span {
 	font-family: 'Galada', cursive;
 	text-transform: lowercase;
-	color: #77a466;
+	color: #8f1911;
 	font-size: .875em;
 }
 
