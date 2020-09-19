@@ -13,7 +13,8 @@ body {
 	justify-content: center;
 	align-items: center;
 	margin: 0 15px;
-	background-color: #e0d7af;
+	background-image: url("https://i.postimg.cc/pVJpymZc/concrete-wall.png") ;
+	background-color: #eee5bd;
 	color: rgb(58, 59, 52)
 }
 
@@ -179,7 +180,7 @@ width: 100%;
 
 /*The widths are in a percentage!*/
 footer {
-	border-top: 2px solid #455d69;
+	border-top: 2px solid #c2a31a;
 	margin: 0 auto;
 	text-align: center;
 	display: flex;
@@ -215,8 +216,8 @@ footer span {
 		padding: 0;
 	}
 	.section-two {
-		border-left: 1px solid #eee;
-		border-right: 1px solid #eee;
+		border-left: 1px solid #c2a31a;
+		border-right: 1px solid#c2a31a;
 	}
 
 	.bottom-section {
@@ -231,7 +232,7 @@ footer span {
 	.section-two,
 	.section-three {
 		width: 33%;
-		border-top: 1px solid #eee;
+		border-top: 1px solid #c2a31a;
 	}
 
 	.section-two h4{
@@ -279,7 +280,7 @@ footer span {
 	.section-two,
 	.section-three {
 		width: 32%;
-		border-top: 1px solid #eee;
+		border-top: 1px solid #c2a31a;
 
 	}
 
