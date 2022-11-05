@@ -195,6 +195,14 @@ footer span {
 	color: #8f1911;
 	font-size: .875em;
 }
+footer h5 a{
+	text-decoration: none;
+	color: #473e16;
+}
+
+footer h5 a:hover{
+	color:#254d5a;
+}
 
 
 /***  MEDIA QUERIES  ***/
